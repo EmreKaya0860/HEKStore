@@ -1,0 +1,17 @@
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Email\bin\Debug\net8.0\HEKStore.Email.deps.json
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Email\bin\Debug\net8.0\HEKStore.Email.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Email\bin\Debug\net8.0\HEKStore.Email.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Email\bin\Debug\net8.0\HEKStore.Application.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Email\bin\Debug\net8.0\HEKStore.Domain.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Email\bin\Debug\net8.0\HEKStore.Application.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Email\bin\Debug\net8.0\HEKStore.Domain.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Email\obj\Debug\net8.0\HEKStore.Email.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Email\obj\Debug\net8.0\HEKStore.Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Email\obj\Debug\net8.0\HEKStore.Email.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Email\obj\Debug\net8.0\HEKStore.Email.AssemblyInfo.cs
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Email\obj\Debug\net8.0\HEKStore.Email.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Email\obj\Debug\net8.0\HEKStore.99FE2C3A.Up2Date
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Email\obj\Debug\net8.0\HEKStore.Email.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Email\obj\Debug\net8.0\refint\HEKStore.Email.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Email\obj\Debug\net8.0\HEKStore.Email.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Email\obj\Debug\net8.0\ref\HEKStore.Email.dll

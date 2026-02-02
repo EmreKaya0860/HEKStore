@@ -1,0 +1,17 @@
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Identity\bin\Debug\net8.0\HEKStore.Identity.deps.json
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Identity\bin\Debug\net8.0\HEKStore.Identity.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Identity\bin\Debug\net8.0\HEKStore.Identity.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Identity\bin\Debug\net8.0\HEKStore.Application.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Identity\bin\Debug\net8.0\HEKStore.Domain.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Identity\bin\Debug\net8.0\HEKStore.Application.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Identity\bin\Debug\net8.0\HEKStore.Domain.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Identity\obj\Debug\net8.0\HEKStore.Identity.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Identity\obj\Debug\net8.0\HEKStore.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Identity\obj\Debug\net8.0\HEKStore.Identity.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Identity\obj\Debug\net8.0\HEKStore.Identity.AssemblyInfo.cs
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Identity\obj\Debug\net8.0\HEKStore.Identity.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Identity\obj\Debug\net8.0\HEKStore.19FE0097.Up2Date
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Identity\obj\Debug\net8.0\HEKStore.Identity.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Identity\obj\Debug\net8.0\refint\HEKStore.Identity.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Identity\obj\Debug\net8.0\HEKStore.Identity.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Identity\obj\Debug\net8.0\ref\HEKStore.Identity.dll

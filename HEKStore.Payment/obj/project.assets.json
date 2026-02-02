@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "HEKStore.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "HEKStore.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HEKStore.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HEKStore.Application.dll": {}
+        }
+      },
+      "HEKStore.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/HEKStore.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HEKStore.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HEKStore.Application/1.0.0": {
+      "type": "project",
+      "path": "../HEKStore.Application/HEKStore.Application.csproj",
+      "msbuildProject": "../HEKStore.Application/HEKStore.Application.csproj"
+    },
+    "HEKStore.Domain/1.0.0": {
+      "type": "project",
+      "path": "../HEKStore.Domain/HEKStore.Domain.csproj",
+      "msbuildProject": "../HEKStore.Domain/HEKStore.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "HEKStore.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Emre\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Emre\\Desktop\\HEKStore\\HEKStore.Payment\\HEKStore.Payment.csproj",
+      "projectName": "HEKStore.Payment",
+      "projectPath": "C:\\Users\\Emre\\Desktop\\HEKStore\\HEKStore.Payment\\HEKStore.Payment.csproj",
+      "packagesPath": "C:\\Users\\Emre\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Emre\\Desktop\\HEKStore\\HEKStore.Payment\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Emre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Emre\\Desktop\\HEKStore\\HEKStore.Application\\HEKStore.Application.csproj": {
+              "projectPath": "C:\\Users\\Emre\\Desktop\\HEKStore\\HEKStore.Application\\HEKStore.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

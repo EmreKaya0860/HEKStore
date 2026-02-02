@@ -1,0 +1,11 @@
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Domain\bin\Debug\net8.0\HEKStore.Domain.deps.json
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Domain\bin\Debug\net8.0\HEKStore.Domain.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Domain\bin\Debug\net8.0\HEKStore.Domain.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Domain\obj\Debug\net8.0\HEKStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Domain\obj\Debug\net8.0\HEKStore.Domain.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Domain\obj\Debug\net8.0\HEKStore.Domain.AssemblyInfo.cs
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Domain\obj\Debug\net8.0\HEKStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Domain\obj\Debug\net8.0\HEKStore.Domain.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Domain\obj\Debug\net8.0\refint\HEKStore.Domain.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Domain\obj\Debug\net8.0\HEKStore.Domain.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Domain\obj\Debug\net8.0\ref\HEKStore.Domain.dll

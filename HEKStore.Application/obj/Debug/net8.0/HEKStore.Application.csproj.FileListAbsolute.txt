@@ -1,0 +1,15 @@
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Application\bin\Debug\net8.0\HEKStore.Application.deps.json
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Application\bin\Debug\net8.0\HEKStore.Application.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Application\bin\Debug\net8.0\HEKStore.Application.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Application\bin\Debug\net8.0\HEKStore.Domain.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Application\bin\Debug\net8.0\HEKStore.Domain.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Application\obj\Debug\net8.0\HEKStore.Application.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Application\obj\Debug\net8.0\HEKStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Application\obj\Debug\net8.0\HEKStore.Application.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Application\obj\Debug\net8.0\HEKStore.Application.AssemblyInfo.cs
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Application\obj\Debug\net8.0\HEKStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Application\obj\Debug\net8.0\HEKStore.614F12C2.Up2Date
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Application\obj\Debug\net8.0\HEKStore.Application.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Application\obj\Debug\net8.0\refint\HEKStore.Application.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Application\obj\Debug\net8.0\HEKStore.Application.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Application\obj\Debug\net8.0\ref\HEKStore.Application.dll

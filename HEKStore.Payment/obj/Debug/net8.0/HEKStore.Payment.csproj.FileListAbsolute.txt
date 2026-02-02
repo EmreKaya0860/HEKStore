@@ -1,0 +1,17 @@
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Payment\bin\Debug\net8.0\HEKStore.Payment.deps.json
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Payment\bin\Debug\net8.0\HEKStore.Payment.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Payment\bin\Debug\net8.0\HEKStore.Payment.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Payment\bin\Debug\net8.0\HEKStore.Application.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Payment\bin\Debug\net8.0\HEKStore.Domain.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Payment\bin\Debug\net8.0\HEKStore.Application.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Payment\bin\Debug\net8.0\HEKStore.Domain.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Payment\obj\Debug\net8.0\HEKStore.Payment.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Payment\obj\Debug\net8.0\HEKStore.Payment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Payment\obj\Debug\net8.0\HEKStore.Payment.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Payment\obj\Debug\net8.0\HEKStore.Payment.AssemblyInfo.cs
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Payment\obj\Debug\net8.0\HEKStore.Payment.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Payment\obj\Debug\net8.0\HEKStore.76C4F927.Up2Date
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Payment\obj\Debug\net8.0\HEKStore.Payment.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Payment\obj\Debug\net8.0\refint\HEKStore.Payment.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Payment\obj\Debug\net8.0\HEKStore.Payment.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Payment\obj\Debug\net8.0\ref\HEKStore.Payment.dll

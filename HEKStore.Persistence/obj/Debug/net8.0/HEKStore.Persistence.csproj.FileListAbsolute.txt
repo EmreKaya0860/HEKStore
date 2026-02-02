@@ -1,0 +1,17 @@
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Persistence\bin\Debug\net8.0\HEKStore.Persistence.deps.json
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Persistence\bin\Debug\net8.0\HEKStore.Persistence.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Persistence\bin\Debug\net8.0\HEKStore.Persistence.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Persistence\bin\Debug\net8.0\HEKStore.Application.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Persistence\bin\Debug\net8.0\HEKStore.Domain.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Persistence\bin\Debug\net8.0\HEKStore.Application.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Persistence\bin\Debug\net8.0\HEKStore.Domain.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Persistence\obj\Debug\net8.0\HEKStore.Persistence.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Persistence\obj\Debug\net8.0\HEKStore.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Persistence\obj\Debug\net8.0\HEKStore.Persistence.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Persistence\obj\Debug\net8.0\HEKStore.Persistence.AssemblyInfo.cs
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Persistence\obj\Debug\net8.0\HEKStore.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Persistence\obj\Debug\net8.0\HEKStore.58C2F491.Up2Date
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Persistence\obj\Debug\net8.0\HEKStore.Persistence.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Persistence\obj\Debug\net8.0\refint\HEKStore.Persistence.dll
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Persistence\obj\Debug\net8.0\HEKStore.Persistence.pdb
+C:\Users\Emre\Desktop\HEKStore\HEKStore.Persistence\obj\Debug\net8.0\ref\HEKStore.Persistence.dll

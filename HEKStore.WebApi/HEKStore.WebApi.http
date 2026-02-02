@@ -1,0 +1,6 @@
+@HEKStore.WebApi_HostAddress = http://localhost:5275
+
+GET {{HEKStore.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
